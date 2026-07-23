@@ -7,12 +7,21 @@ to include files, do
 #include <stdio.h>
 int main(){
     // printing stuff
-    printf("something should end hello ;");
+    printf("something should always end with ; in C \n");
     //declarationn statement,assignment statements
     int a,b,c;
     a=5,b=10;
     c=a+b;
-    printf("The sum of %d and %d is %d",a,b,c);
+    printf("The sum of %d and %d is %d\n",a,b,c);
     //%d,%f,etc are called format specfier.
+
+    //All 5 basic operators
+    float x,y;
+    x=10.5,y=2.5;
+    printf("The sum of %f and %f is %f\n",x,y,x+y);
+    printf("The difference of %f and %f is %f\n", x, y, x - y);
+    printf("The product of %f and %f is %f\n", x, y, x * y);
+    printf("The ratio of %f and %f is %f\n", x, y, x / y);
+    printf("In the first one, %d mod %d is %d\n",a,b,a%b);
     return 0;
 }
