@@ -13,7 +13,7 @@ int main(){
     a=5,b=10;
     c=a+b;
     printf("The sum of %d and %d is %d\n",a,b,c);
-    //%d,%f,etc are called format specfier.
+    //%d,%f,etc are called format specfier, okiedokie, fuck.
 
     //All 5 basic operators
     float x,y;
@@ -23,5 +23,11 @@ int main(){
     printf("The product of %f and %f is %f\n", x, y, x * y);
     printf("The ratio of %f and %f is %f\n", x, y, x / y);
     printf("In the first one, %d mod %d is %d\n",a,b,a%b);
+
+    // Characters
+    char x='A';
+    char y=35;
+    printf("This mf charcter x='A' has character value %c, and has an integer value of %d\n",x,x);
+    printf("This mf charcter y=35 has character value %c, and has an integer value of %d\n", y, y);
     return 0;
 }
