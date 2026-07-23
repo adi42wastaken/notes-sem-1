@@ -25,9 +25,9 @@ int main(){
     printf("In the first one, %d mod %d is %d\n",a,b,a%b);
 
     // Characters
-    char x='A';
-    char y=35;
-    printf("This mf charcter x='A' has character value %c, and has an integer value of %d\n",x,x);
-    printf("This mf charcter y=35 has character value %c, and has an integer value of %d\n", y, y);
+    char p='A';
+    char q=35;
+    printf("This mf charcter p='A' has character value %c, and has an integer value of %d\n",p,p);
+    printf("This mf charcter q=35 has character value %c, and has an integer value of %d\n", q, q);
     return 0;
 }
