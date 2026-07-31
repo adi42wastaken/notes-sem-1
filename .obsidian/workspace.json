@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Lecture 1"
             }
+          },
+          {
+            "id": "b6597db5e7c049ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RA Template.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "RA Template"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,12 +204,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b7fac25ee526eb66",
+  "active": "b6597db5e7c049ce",
   "lastOpenFiles": [
     "Real Analysis/Lecture 1.md",
+    "RA Template.md",
     "README.md",
     "Hmmm.md",
     "hello..md",
