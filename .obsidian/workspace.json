@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "95c209895bb597f0",
+        "id": "b256825872aedf54",
         "type": "tabs",
         "children": [
           {
-            "id": "b7fac25ee526eb66",
+            "id": "4d8342ff5e88b0e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real Analysis/Lecture 1.md",
+                "file": "Real-Analysis-I/Lecture 1-2-3-4.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture 1"
+              "title": "Lecture 1-2-3-4"
             }
           },
           {
-            "id": "b6597db5e7c049ce",
+            "id": "f10b2836307a5b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RA Template.md",
-                "mode": "source",
+                "file": "Real-Analysis-I/Lecture 1-2-3-4.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "RA Template"
+              "title": "Lecture 1-2-3-4"
             }
           }
         ],
@@ -56,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -142,7 +144,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -186,13 +188,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ea08906772324e78",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Real-Analysis-I/Lecture 1-2-3-4.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,14 +223,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6597db5e7c049ce",
+  "active": "f10b2836307a5b36",
   "lastOpenFiles": [
-    "Real Analysis/Lecture 1.md",
-    "RA Template.md",
+    "Number-Theory/Lecture 1.md",
+    "Real-Analysis-I/Lecture 1-2-3-4.md",
+    "Real-Analysis-I/Lecture 5.md",
+    "Templates/Template.md",
+    "Number-Theory",
+    "Real-Analysis-I/Lecture 0.md",
+    "Real Analysis/Untitled.base",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled.base",
+    "Real Analysis/Lecture 2.md",
     "README.md",
+    "test.md",
+    "Template/Untitled.md",
+    "Untitled 2.md",
+    "2026-07-31.md",
+    "Templates",
+    "New folder",
+    "Whats.md",
+    "Untitled 1.base",
+    "Untitled.canvas",
     "Hmmm.md",
     "hello..md",
-    "Real Analysis",
+    "Real-Analysis-I",
     "FCAP/Fundamentals_of_Computing_and_Programming__Dr__Veena_Gadad (1).pdf",
     "hellol,,l;774.md",
     "General/h1.md",
@@ -223,10 +256,6 @@
     "clone.md",
     "clone/LICENSE",
     "clone",
-    "2026-06-22.md",
-    "Untitled.base",
-    "Untitled.canvas",
-    "Probability",
-    "General"
+    "2026-06-22.md"
   ]
 }

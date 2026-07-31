@@ -2,5 +2,13 @@
   "livePreview": false,
   "promptDelete": false,
   "autoConvertHtml": true,
-  "tabSize": 5
+  "tabSize": 5,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "spellcheckDictionary": [
+    "surjectivity",
+    "injectivity"
+  ],
+  "spellcheck": false
 }

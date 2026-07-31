@@ -1,4 +1,10 @@
 {
-  "cssTheme": "Tokyo Night",
-  "accentColor": "#aa62d0"
+  "cssTheme": "",
+  "accentColor": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "dark-theme",
+    "dark-sexy-bf",
+    "head"
+  ]
 }
