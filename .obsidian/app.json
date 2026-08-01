@@ -8,7 +8,10 @@
   "attachmentFolderPath": "./",
   "spellcheckDictionary": [
     "surjectivity",
-    "injectivity"
+    "injectivity",
+    "Apostol",
+    "FSOC",
+    "Bezout"
   ],
   "spellcheck": false
 }
