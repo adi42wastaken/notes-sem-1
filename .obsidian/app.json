@@ -11,7 +11,19 @@
     "injectivity",
     "Apostol",
     "FSOC",
-    "Bezout"
+    "Bezout",
+    "iff it",
+    "bezout",
+    "totient",
+    "coprime",
+    "Fermatt"
   ],
-  "spellcheck": false
+  "spellcheck": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 60
+  }
 }

@@ -1,5 +1,5 @@
 ---
-Date: 2026-07-31
+Date: 2026-08-00
 aliases:
 tags:
   - Real-Analysis

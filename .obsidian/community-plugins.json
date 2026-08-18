@@ -1,8 +1,8 @@
 [
-  "obsidian-latex-suite",
   "obsidian-git",
   "templater-obsidian",
   "quick-explorer",
   "inline-math",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "better-export-pdf"
 ]

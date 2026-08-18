@@ -15,6 +15,11 @@ tags:
 > - Apply #WOP 
 > - Bound $r$
 > - Show uniqueness
+
+> [!note] GCD
+> Let $a,b\in \Bbb{Z}$ with $a\cdot b\neq 0$, the greatest common divisor of $a,b$ denoted by $(a,b)$ or $\gcd(a,b)$ is the positive integer $d$ satisfying
+> - $d\mid a,d\mid b$
+> - If $c\mid a,c\mid b$ then $c\leq d.$
 ### 2.2 Bezout's lemma
 >[! Statement]
 > For $\forall a,b\in\Bbb{Z},\exists u,v\in\Bbb{Z}$ such that $\gcd(a,b)=au+bv.$
@@ -35,7 +40,7 @@ tags:
 >If $\gcd(a,b)=1$ and $a\mid bc$ then $a\mid c.$
 
 > [!abstract]- Proof
-> From the statements we know $\exists x$ such that $bc=ax$.
+> From the statements given we know $\exists x$ such that $bc=ax$.
 > And that $\exists u,v \in\Bbb{Z}$ such that $$au+bv=1,$$
-> We get $$acu+bcv=c$$ $$a(cu+xv)=c$$ $$\implies a\mid c \text{           }\square$$ 
+> We get $$acu+bcv=c$$ $$a(cu+xv)=c$$ $$\implies a\mid c \square$$ 
 ---

@@ -2,6 +2,7 @@
 aliases:
   - intro
 date: 2026-07-20
+Instructor: Ramdin Mawia
 ---
 # Marking Scheme
 
@@ -15,4 +16,6 @@ date: 2026-07-20
 
 
 > [!tip]-
-> *
+> * Math takes patience and effort
+> * Don't just ChatGPT everything
+> * Give everything equal effort

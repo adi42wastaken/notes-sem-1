@@ -1,6 +1,7 @@
 ---
 aliases:
   - intro
+Instructor: Ratna Pal
 ---
 # Marking Scheme
 
