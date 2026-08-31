@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number-Theory/Lecture 10.md",
+                "file": "Number-Theory/Lecture-11.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture 10"
+              "title": "Lecture-11"
             }
           },
           {
@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number-Theory/Lecture 10.md",
+                "file": "Number-Theory/Lecture-10.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture 10"
+              "title": "Lecture-10"
             }
           }
         ]
@@ -129,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "178fa3da878cda5b",
@@ -260,13 +259,18 @@
   },
   "active": "aed966f97df2caed",
   "lastOpenFiles": [
+    "Number-Theory/Lecture-10.md",
+    "Number-Theory/Lecture-9.md",
+    "Number-Theory/Lecture-7.md",
+    "Number-Theory/Lecture-5.md",
+    "Number-Theory/Lecture-4.md",
+    "Number-Theory/Lecture-3.md",
+    "Number-Theory/Lecture-2.md",
+    "Number-Theory/Lecture-1.md",
+    "Number-Theory/Lecture-0.md",
     "Screenshot 2026-08-31 135305.png",
-    "Number-Theory/Lecture 11.md",
-    "Number-Theory/Lecture 10.md",
-    "Number-Theory/Lecture 7.md",
+    "Number-Theory/Lecture-11.md",
     "README.md",
-    "Number-Theory/Lecture 5.md",
-    "Number-Theory/Lecture 9.md",
     "Real-Analysis-I/Lecture X2.md",
     "Real-Analysis-I/Lecture X.md",
     "Real-Analysis-I/Lecture 5.md",
@@ -281,11 +285,6 @@
     "FCAP/extraclass.c",
     "tempCodeRunnerFile.exe",
     "tempCodeRunnerFile.c",
-    "Number-Theory/Lecture 4.md",
-    "Number-Theory/Lecture 3.md",
-    "Number-Theory/Lecture 1.md",
-    "Number-Theory/Lecture 0.md",
-    "Number-Theory/Lecture 2.md",
     "Real-Analysis-I/Lecture 0.md",
     "Templates/Template.md",
     "Number-Theory/Lecture 1 1.md",

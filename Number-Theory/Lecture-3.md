@@ -43,7 +43,7 @@ tags:
 > A positive integer $p>1$ is said to be a prime if it's only positive divisors are $1$ and $p$.
 
 > [! Note] $p\mid ab\implies p\mid a$ or $p\mid b.$
-> comes directly from [[Lecture 2#2.4 Euclid's Lemma | Euclid's lemma]]. This is sometimes also used as an alternate definition of primes.
+> comes directly from [[Lecture-2#2.4 Euclid's Lemma| Euclid's lemma]]. This is sometimes also used as an alternate definition of primes.
 
 > **Corollary:** The above can be generalized to:
 > - $p\mid a_1\cdot a_2\cdots a_n\implies p\mid a_i$ for some $i.$
