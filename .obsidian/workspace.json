@@ -8,52 +8,66 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a16f91b6608cd0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real-Analysis-I/Lecture X.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lecture X"
-            }
-          },
-          {
             "id": "697b2b4cf095d06d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real-Analysis-I/Lecture X2.md",
+                "file": "Number-Theory/Lecture 5.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture X2"
+              "title": "Lecture 5"
+            }
+          },
+          {
+            "id": "aed966f97df2caed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Number-Theory/Lecture 10.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 10"
+            }
+          },
+          {
+            "id": "614d8d10432e1725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Number-Theory/Lecture 11.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 11"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "afa9948cfae2b0a2",
+        "id": "b1f469301db72f11",
         "type": "tabs",
         "children": [
           {
-            "id": "e19935fd2c491ed5",
+            "id": "a065387635fc6e44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real-Analysis-I/Lecture X2.md",
+                "file": "Number-Theory/Lecture 10.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture X2"
+              "title": "Lecture 10"
             }
           }
         ]
@@ -115,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "178fa3da878cda5b",
@@ -243,44 +258,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "697b2b4cf095d06d",
+  "active": "aed966f97df2caed",
   "lastOpenFiles": [
+    "Screenshot 2026-08-31 135305.png",
+    "Number-Theory/Lecture 11.md",
+    "Number-Theory/Lecture 10.md",
+    "Number-Theory/Lecture 7.md",
+    "README.md",
+    "Number-Theory/Lecture 5.md",
+    "Number-Theory/Lecture 9.md",
+    "Real-Analysis-I/Lecture X2.md",
+    "Real-Analysis-I/Lecture X.md",
+    "Real-Analysis-I/Lecture 5.md",
+    "Real-Analysis-I/Lecture 4.md",
+    "Real-Analysis-I/Lecture 1-2-3.md",
     "FCAP/19-20_8_day10.exe",
     "FCAP/19-20_8_day10.c",
     "FCAP/18_8_day9.exe",
-    "Real-Analysis-I/Lecture X.md",
-    "Real-Analysis-I/Lecture X2.md",
-    "Number-Theory/Lecture 7.md",
     "FCAP/18_8_day9.c",
     "FCAP/18_8_day",
     "FCAP/extraclass.exe",
     "FCAP/extraclass.c",
     "tempCodeRunnerFile.exe",
     "tempCodeRunnerFile.c",
-    "Number-Theory/Lecture 5.md",
     "Number-Theory/Lecture 4.md",
     "Number-Theory/Lecture 3.md",
     "Number-Theory/Lecture 1.md",
     "Number-Theory/Lecture 0.md",
-    "Number-Theory/Lecture 8.md",
     "Number-Theory/Lecture 2.md",
-    "Real-Analysis-I/Lecture 1-2-3.md",
     "Real-Analysis-I/Lecture 0.md",
-    "Real-Analysis-I/Lecture 4.md",
-    "Real-Analysis-I/Lecture 5.md",
     "Templates/Template.md",
     "Number-Theory/Lecture 1 1.md",
     "Number-Theory",
-    "Real Analysis/Untitled.base",
     "Untitled.md",
     "Untitled 1.md",
     "Real Analysis/Lecture 2.md",
-    "README.md",
     "test.md",
     "Template/Untitled.md",
     "Untitled 2.md",
-    "2026-07-31.md",
-    "Whats.md",
     "Untitled.canvas"
   ]
 }

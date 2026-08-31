@@ -84,6 +84,7 @@ tags:
 > Same set up but no need to raise $n$ by $\phi(m_i)$ Just take a number $b_i$ such that $b_i n_i\equiv 1\pmod {m_i}.$ Then look at $$x=a_1b_1n_1+\cdots a_kb_kn_k.$$
 > 3. Then show uniquness upto $\pmod{m}$
 
->[!question] Are there infinitly many primes of the form $x^2+y^4?$ of the form ${} p(x)? {}$
-### 
+>[!question] Are there infinitly many primes of the form $x^2+y^4?$ of the form $p(x)?$
+>---
+# Lecture 8 was cancelled.
  ---
