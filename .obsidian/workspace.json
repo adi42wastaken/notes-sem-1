@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc2081401881d58a",
+        "id": "ca7947d76fc0ca42",
         "type": "tabs",
         "children": [
           {
-            "id": "697b2b4cf095d06d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Number-Theory/Lecture 5.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 5"
-            }
-          },
-          {
-            "id": "aed966f97df2caed",
+            "id": "ffc438483c750ce9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,41 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Lecture-11"
-            }
-          },
-          {
-            "id": "614d8d10432e1725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Number-Theory/Lecture 11.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 11"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b1f469301db72f11",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a065387635fc6e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Number-Theory/Lecture-10.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lecture-10"
             }
           }
         ]
@@ -219,8 +170,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -257,7 +208,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aed966f97df2caed",
+  "active": "ffc438483c750ce9",
   "lastOpenFiles": [
     "Number-Theory/Lecture-10.md",
     "Number-Theory/Lecture-9.md",
@@ -266,16 +217,16 @@
     "Number-Theory/Lecture-4.md",
     "Number-Theory/Lecture-3.md",
     "Number-Theory/Lecture-2.md",
+    "Number-Theory/Lecture-11.md",
     "Number-Theory/Lecture-1.md",
     "Number-Theory/Lecture-0.md",
-    "Screenshot 2026-08-31 135305.png",
-    "Number-Theory/Lecture-11.md",
-    "README.md",
     "Real-Analysis-I/Lecture X2.md",
     "Real-Analysis-I/Lecture X.md",
     "Real-Analysis-I/Lecture 5.md",
     "Real-Analysis-I/Lecture 4.md",
     "Real-Analysis-I/Lecture 1-2-3.md",
+    "README.md",
+    "Screenshot 2026-08-31 135305.png",
     "FCAP/19-20_8_day10.exe",
     "FCAP/19-20_8_day10.c",
     "FCAP/18_8_day9.exe",

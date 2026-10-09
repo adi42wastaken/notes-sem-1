@@ -17,13 +17,12 @@ tags:
 > * **Corollary: All subgroups of $(\mathbb{Z},+)$ are of the form $n\mathbb{Z}$** 
 > $<1>=\mathbb{Z}.$ The subgroup will be made from the smallest positive integer $d$ such that $1^d=d\in H.$ So, $d\in H\implies H=\{dx|x\in\mathbb{Z}\}=d\mathbb{Z}.$
 
-### 10.2 Let $G$ be a finite cyclic group. $|G|=n<\infty.$ For any $d\mid n,\exists ! H<G$ of order ${} d. {}$
-# Theorem
-> bleh
+### 10.2 Let $G$ be a finite cyclic group. $|G|=n<\infty.$ For any $d\mid n,\exists ! H<G$ of order $d.$
 
-> [!note] Definition
-
-> [!abstract]- Proof
-> Write sum bulllshiitt
+>[! Proof:]
+> Let $G=<x>$ and take some $d\mid n$ We claim that $\exists !H=<x^{n/d}>$
+> * $ord(x^{n/d})=\frac{n}{(\frac{n}{d},n)}=d$
+> * For uniqueness, assume there is another $K=<z>=<x^k>.$
+> * $\frac{n}{(n,k)}=d\implies (n,k)=\frac{n}{d}\implies\frac{n}{d}\mid k.$ Say $k=\frac{nt}{d}$ then $x^k=(x^{\frac{n}{d}})^t\in H$ but $|H|=|K|=d\implies H=K\boxed{}$
 
 ----

@@ -2,7 +2,8 @@
   "obsidian-git",
   "templater-obsidian",
   "quick-explorer",
-  "inline-math",
   "obsidian-languagetool-plugin",
-  "better-export-pdf"
+  "better-export-pdf",
+  "inline-math",
+  "obsidian-latex-suite"
 ]
