@@ -8,17 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffc438483c750ce9",
+            "id": "2e68995ceca904e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number-Theory/Lecture-11.md",
+                "file": "Linear Algebra 15-10-26 (Extra).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Linear Algebra 15-10-26 (Extra)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "19fb0c6fb21ada2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0614e3cfeba8cf07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra 15-10-26 (Extra).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture-11"
+              "title": "Linear Algebra 15-10-26 (Extra)"
             }
           }
         ]
@@ -80,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "178fa3da878cda5b",
@@ -208,8 +229,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ffc438483c750ce9",
+  "active": "2e68995ceca904e4",
   "lastOpenFiles": [
+    "Number-Theory/Lecture-11.md",
+    "Linear Algebra 15-10-26 (Extra).md",
     "Number-Theory/Lecture-10.md",
     "Number-Theory/Lecture-9.md",
     "Number-Theory/Lecture-7.md",
@@ -217,9 +240,9 @@
     "Number-Theory/Lecture-4.md",
     "Number-Theory/Lecture-3.md",
     "Number-Theory/Lecture-2.md",
-    "Number-Theory/Lecture-11.md",
     "Number-Theory/Lecture-1.md",
     "Number-Theory/Lecture-0.md",
+    "Number-Theory/BinaryQuadratic Forms.pdf",
     "Real-Analysis-I/Lecture X2.md",
     "Real-Analysis-I/Lecture X.md",
     "Real-Analysis-I/Lecture 5.md",
@@ -239,8 +262,7 @@
     "Real-Analysis-I/Lecture 0.md",
     "Templates/Template.md",
     "Number-Theory/Lecture 1 1.md",
-    "Number-Theory",
-    "Untitled.md",
+    "Linear Algebra 15-10-26 (Extra).md",
     "Untitled 1.md",
     "Real Analysis/Lecture 2.md",
     "test.md",

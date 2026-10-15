@@ -16,7 +16,9 @@
     "bezout",
     "totient",
     "coprime",
-    "Fermatt"
+    "Fermatt",
+    "idenpotent",
+    "Hermition"
   ],
   "spellcheck": false,
   "pdfExportSettings": {
